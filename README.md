@@ -3,11 +3,11 @@
   
   <p><titltle><b>Deloitte</b></tittle></p>
   
-  <p><strong>Párrafo 1</strong>K</p>
+  <p>K</p>
   
-  <p><strong>Párrafo 2</strong>L</p>
+  <p>L</p>
   
-  <p><strong>Párrafo 3</strong>G</p>
+  <p>G</p>
   
 </div>
 <div>
