@@ -1,7 +1,7 @@
 # NVL-HTML-P9a
 <div>
   
-  <p><titltle>Deloitte</tittle></p>
+  <p><titltle><b>Deloitte</b></tittle></p>
   
   <p><strong>Párrafo 1</strong>K</p>
   
