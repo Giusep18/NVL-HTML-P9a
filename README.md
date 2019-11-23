@@ -12,7 +12,7 @@
 </div>
 <div>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Letter_k.svg/1200px-Letter_k.svg.png" alt="K">
-  <img src="https://i.ytimg.com/vi/j0TUZdBmr6Q/maxresdefault.jpg" alt="L">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Letter_k.svg/1200px-Letter_k.svg.png" alt="K" widt="200" height="200" >
+  <img src="https://i.ytimg.com/vi/j0TUZdBmr6Q/maxresdefault.jpg" alt="L" widt="200" height="200">
   
 </div>
